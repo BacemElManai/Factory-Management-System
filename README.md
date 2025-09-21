@@ -32,7 +32,7 @@ User-Friendly Interface: Intuitive menu system with error handling
 
 🛠 Technical Architecture
 Data Model
-python
+
 factory = dict(
     name=str,           # Uppercase, max 10 chars
     employees=int,      # Minimum 11
@@ -51,7 +51,7 @@ Sorting Algorithm: Optimized insertion sort for employee-based ranking
 Menu Controller: Continuous operation with graceful exit handling
 
 📋 Usage
-bash
+
 python factory_management.py
 Menu Options
 Add Factory: Complete data entry with guided validation
@@ -84,7 +84,7 @@ factories.dat: Secure binary database of all factory records
 factories_tunis.txt: Formatted text report of Tunis-based facilities
 
 📊 Sample Output
-text
+
 === 🏭 Factory Management Menu ===
 1 - Add Factory
 2 - Show All Factories
